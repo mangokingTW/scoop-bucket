@@ -1,5 +1,5 @@
 {
-    "version": "0.9.20-beta.1",
+    "version": "0.9.20",
     "description": "Windows tray utility for IME mode persistence and per-app input-language binding (beta channel: tracks the newest release, including pre-releases).",
     "homepage": "https://github.com/mangokingTW/ImeModePersistence",
     "license": "MIT",
@@ -10,12 +10,12 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://github.com/mangokingTW/ImeModePersistence/releases/download/v0.9.20-beta.1/ImeModePersistence-0.9.20-beta.1-x64.zip",
-            "hash": "daf0697e01665b4dd7593e47aa528261863e63a8a886a1d9ab8f898367d2ff17"
+            "url": "https://github.com/mangokingTW/ImeModePersistence/releases/download/v0.9.20/ImeModePersistence-0.9.20-x64.zip",
+            "hash": "e35746dc3f9c944ee6df97bba6b0309c176aeb51f89632307446af5400ec4d75"
         },
         "32bit": {
-            "url": "https://github.com/mangokingTW/ImeModePersistence/releases/download/v0.9.20-beta.1/ImeModePersistence-0.9.20-beta.1-x86.zip",
-            "hash": "b35397bcb5dd7b4f5383079c53dd3cdfdf9cc1cbc015dbb16def3ea600b91149"
+            "url": "https://github.com/mangokingTW/ImeModePersistence/releases/download/v0.9.20/ImeModePersistence-0.9.20-x86.zip",
+            "hash": "d315d51c5c117ade51e2d27e92a6da6f330663d349dda28848c6b439e18222e5"
         }
     },
     "bin": [
