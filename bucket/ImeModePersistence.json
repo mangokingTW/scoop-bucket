@@ -1,5 +1,5 @@
 {
-    "version": "0.9.18",
+    "version": "0.9.19",
     "description": "Windows tray utility that carries your IME's native/alphanumeric mode across windows and binds programs to a fixed input language, including anti-cheat fullscreen games.",
     "homepage": "https://github.com/mangokingTW/ImeModePersistence",
     "license": "MIT",
