@@ -1,5 +1,5 @@
 {
-    "version": "0.9.21",
+    "version": "0.9.22",
     "description": "Windows tray utility that carries your IME's native/alphanumeric mode across windows and binds programs to a fixed input language, including anti-cheat fullscreen games.",
     "homepage": "https://github.com/mangokingTW/ImeModePersistence",
     "license": "MIT",
@@ -9,12 +9,12 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://github.com/mangokingTW/ImeModePersistence/releases/download/v0.9.21/ImeModePersistence-0.9.21-x64.zip",
-            "hash": "f71426431deb5b5a819262060e97653ed649819ee8fac16e2e5d4791656602ad"
+            "url": "https://github.com/mangokingTW/ImeModePersistence/releases/download/v0.9.22/ImeModePersistence-0.9.22-x64.zip",
+            "hash": "4e8ac570e59f9a52b6df35e0f1802f9c651819aaa07dc1783c94a863debe28ad"
         },
         "32bit": {
-            "url": "https://github.com/mangokingTW/ImeModePersistence/releases/download/v0.9.21/ImeModePersistence-0.9.21-x86.zip",
-            "hash": "7dda881a372515ff6b12410b5847fcd61ac492baada9eea4bb173b5499396e36"
+            "url": "https://github.com/mangokingTW/ImeModePersistence/releases/download/v0.9.22/ImeModePersistence-0.9.22-x86.zip",
+            "hash": "3f56db4dcf53c4c361f6278b5b6b946aa31c08da5c294297a48f8648347b47b2"
         }
     },
     "bin": "ImeModePersistence.exe",
